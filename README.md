@@ -48,3 +48,8 @@
 本人计算机科学与技术学院，研究方向为自然语言处理。欢迎大家fork并补充其他学院和课程自己了解的信息。
 
 “以我来时路，赠你沿途灯。所历旧风雨，共作好前程。”
+
+## Contributors
+<a href="https://github.com/zjunlp/Eureka-Maggie/UCASnotebook/contributors">
+  <img src="https://contrib.rocks/image?repo=Eureka-Maggie/UCASnotebook" />
+</a>
